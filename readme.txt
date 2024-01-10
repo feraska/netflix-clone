@@ -8,3 +8,7 @@ client dependencies:
 7- react-router-dom
 server dependencies
 npm init -y to init server
+1- express
+2- cors
+3- mongoose
+4- nodemon
